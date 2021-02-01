@@ -12,6 +12,17 @@ or to just compute cpm on a range of task (e.g. taskA to task d )
 If you are going to create your own csv file, please follow the format indicated in the data.csv to
 avoid any errors. 
 
+Writing you own csv:   
+1. DESC = Task description . up to 15 characters 
+2. CODE = 1 letter or 1 character as tag which identifies that specific task
+3. PREDECESSORS = These are task tags which signifies the tasks preceding this task.
+4. DAYS = the amount of time in DAYS that the task is expected to be completed. 
+
+Notes:
+1. Please use comma ',' to separate columns 
+2. Please strictly follow the format of the data.csv file in creating your own input file.
+
+
 
 <Critical Path Method by Pinoystat >
     Copyright (C) <year>  <name of author>
