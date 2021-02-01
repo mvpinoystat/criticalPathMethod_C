@@ -15,7 +15,7 @@ avoid any errors.
 Writing you own csv:   
 1. DESC = Task description . up to 15 characters 
 2. CODE = 1 letter or 1 character as tag which identifies that specific task
-3. PREDECESSORS = These are task tags which signifies the tasks preceding this task.
+3. PREDECESSORS = These are task tags (CODES) which signifies the tasks preceding this task.
 4. DAYS = the amount of time in DAYS that the task is expected to be completed. 
 
 Notes:
