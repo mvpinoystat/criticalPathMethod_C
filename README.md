@@ -3,6 +3,15 @@
 This is the software I created using C in linux Fedora 33. YOu may download it and use it for your own personal use. 
 This software has no warranty . Please watch my video on youtube for the demo. It will run natively on linux.
 
+To run the code in the linux command line: 
+./cpmv01 data.csv
+
+or to just compute cpm on a range of task (e.g. taskA to task d )
+./cpmv01 data.csv 4
+
+If you are going to create your own csv file, please follow the format indicated in the data.csv to
+avoid any errors. 
+
 
 <Critical Path Method by Pinoystat >
     Copyright (C) <year>  <name of author>
